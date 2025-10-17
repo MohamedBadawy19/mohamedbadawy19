@@ -1,49 +1,90 @@
-<h2 align="left">Hi 👋! My name is Mohamed Badawy and I'm a Data Scientist- AI Enthusiast </h2>
+<h1 align="center">Hi 👋, I'm Mohamed Badawy</h1>
+<h3 align="center">🚀 Data Scientist | 🤖 AI Enthusiast | 🧠 ML/DL Researcher</h3>
 
-###
+---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+
+---
+
+### 🌟 About Me
+- 🎓 Passionate about **Data Science, Machine Learning, and AI-based solutions**  
+- 🔬 Currently exploring **Deep Learning & Neural Simulations**  
+- 🧩 I love building **intelligent systems** that make data-driven decisions  
+- 💡 Always learning, experimenting, and innovating  
+- 📫 Reach me at: **mohamedbadawy@gmail.com**
+
+---
+
+### 🧠 My Tech Stack
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedbadawy19&show_icons=true&theme=radical&hide_border=false" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbadawy19&layout=compact&theme=radical&hide_border=false" height="180" alt="Top languages" />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+### 🔥 Featured Projects
+- 🧬 [**Neuron Cloning & Drug Simulation**](https://github.com/mohamedbadawy19/Neuron-Cloning-and-Drug-Simulation) – Neural simulation and AI-driven biology  
+- 🌳 [**Forest Cover Type Classification**](https://github.com/mohamedbadawy19/Forest-Cover-Type-Classification) – Environmental ML model  
+- 💰 [**Loan Approval Prediction**](https://github.com/mohamedbadawy19/Loan-Approval-Prediction) – Predictive analytics for finance  
+- 🛒 [**Customer Segmentation**](https://github.com/mohamedbadawy19/Customer-Segmentation) – ML for marketing insights  
+- 🧾 [**Walmart Sales Forecasting**](https://github.com/mohamedbadawy19/Walmart-Sales-Forecasting) – Time-series forecasting  
+- 🧠 [**Dynamic Neuron Model**](https://github.com/mohamedbadawy19/Dynamic-Neuron-Model-Project) – Simulation-based learning in AI  
+- 🎵 [**Music Remover Program**](https://github.com/mohamedbadawy19/Music-Remover-Program) – Signal processing meets AI
+
+---
+
+### 🌐 Connect With Me
+<div align="center">
+  <a href="mailto:mohamedbadawy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamedbadawy19/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/mohamedbadawy19">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://github.com/mohamedbadawy19">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
-###
+---
 
-<br clear="both">
+### 🐍 My Contributions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohamedbadawy19/mohamedbadawy19/output/snake.svg" alt="snake animation" />
+</p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+---
 
-###
+<p align="center">
+  <b>“Turning Data into Insights, and Insights into Action.”</b>  
+</p>
+
+---
+
+⭐️ From [Mohamed Badawy](https://github.com/mohamedbadawy19)
